@@ -24,7 +24,6 @@
 - [Katya Fadeeva](https://github.com/fadeeva)
 - [Justin Brown](https://github.com/mediumjustinbieber)
 - [Ajey prasand](https://github.com/ajeyprasand)
-- [Sarthak](https://github.com/711sarthak)
 - [km-js]
 - [Johannes Breit](https://github.com/JohnBryte)
 - [Rajesh Alane](https://github.com/rajeshalane)
@@ -106,6 +105,7 @@
 - [Akash Ghosh](https://github.com/akash100)
 - [Rizky Agung] (https://github.com/scrowten)
 - [igor](https://github.com/igorshiota)
+- [Sarthak](https://github.com/711sarthak)
 - [Adam Spindle](https://github.com/AdamSpindle)
 - [Diksha Goyal](https://github.com/dikshagoyal26)
 -.[Soumyadip Saha].(https://itzsoumyadip.github.io.)
